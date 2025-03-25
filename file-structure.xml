@@ -1,0 +1,14 @@
+📂 CR-Automation-Minion-API-/
+ │── modules/
+ │   ├── minion_cr/
+ │   │   ├── main.tf
+ │   │   ├── variables.tf
+ │   │   ├── outputs.tf
+ │── main.tf
+ │── variables.tf
+ │── outputs.tf
+ │── backend.tf
+ │── providers.tf
+ │── terraform.tfvars
+ │── Jenkinsfile
+ │── .github/workflows/cr.yml
